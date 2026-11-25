@@ -41,6 +41,10 @@ npx skills add mattpocock/skills
 
 ### Frontend & UI Design
 
+- **Gemini Frontend Design** ([google-gemini/demolab](https://github.com/google-gemini/demolab)) — Official Gemini team skill for layout, opening screen formats, color palettes, typography, custom imagery, copy, and motion:
+  ```bash
+  npx skills add google-gemini/demolab --skill gemini-frontend-design
+  ```
 - **Frontend Design** ([Anthropic Skills](https://github.com/anthropics/skills)) — Distinctive visual design, typography, and layout craft:
   ```bash
   npx skills add anthropics/skills --skill frontend-design
